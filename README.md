@@ -12,21 +12,9 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm a Computer Science graduate with a background in Software Engineering and Cyber Security.
+Computer Science graduate specializing in Software Engineering and Cyber Security, with an interest in building practical software solutions and exploring emerging technologies.
 
-I'm fascinated by how technology can turn complicated ideas into practical solutions. From building web applications and experimenting with AI-powered tools to exploring automation and emerging technologies, I enjoy learning how things work and finding ways to make them work better.
-
-A few things about me:
-
-- 🎓 Computer Science graduate with an interest in Software Engineering and Cyber Security.
-- 🤖 Interested in Artificial Intelligence, LLMs, AI agents, and automation.
-- 🛠️ I enjoy experimenting with different technologies and bringing ideas to life through development.
-- 🌐 Currently exploring the intersection of software, AI, and real-world applications.
-- 📚 A lifelong learner who enjoys exploring technology, finance, economics, and different cultures.
-- 🌏 Multilingual: Chinese, Malay, English, Japanese, and currently learning Korean.
-- 🎌 Anime enthusiast outside the world of code!
-
-I believe being a developer isn't just about knowing how to write code. It's also about understanding problems, connecting ideas, and continuously learning new ways to solve them.
+I'm particularly interested in AI-powered applications, backend development, software architecture, and automation. I enjoy exploring new technologies and turning ideas into functional applications.
 
 ## 🧰 Tech Stack & Tools
 
@@ -35,7 +23,7 @@ I'm always exploring new technologies. Here's my current toolbox:
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,kotlin,dart,php" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,java,kotlin,dart,php" />
 </p>
 
 **Frontend Development**
@@ -62,25 +50,15 @@ I'm always exploring new technologies. Here's my current toolbox:
   <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode" />
 </p>
 
-## 🚀 What I'm Interested In
+## 🌐 Languages
 
-- **Artificial Intelligence:** Exploring LLMs, AI-powered applications, RAG systems, and autonomous AI agents.
-- **Software Engineering:** Building useful applications with clean architecture and practical functionality.
-- **Cybersecurity:** Understanding network security, system vulnerabilities, and digital infrastructure.
-- **Automation:** Finding ways to simplify repetitive tasks and improve productivity through technology.
-- **Emerging Technologies:** Keeping an eye on how technology is reshaping industries and everyday life.
-
-## 🌱 Currently Learning
-
-I'm a firm believer that learning doesn't stop after graduation.
-
-I'm particularly interested in expanding my knowledge of:
-
-- AI Engineering and Agentic AI
-- Backend Development and System Architecture
-- Cloud Computing and DevOps
-- Cybersecurity and Network Infrastructure
-- Financial Markets and Technology Business Models
+- Chinese   — Native
+- Malay     — Professional
+- English   — Professional
+- Japanese  — Professional
+- Cantonese — Conversational
+- Taiwanese — Conversational
+- Korean    — Learning
 
 ## 🌍 Beyond Coding
 
@@ -89,8 +67,6 @@ When I'm not coding, you'll probably find me:
 - 🎵 Listening to music or watching anime.
 - 🌏 Exploring languages and different cultures.
 - 📈 Reading about global economies, financial markets, and technology companies.
-- 🤔 Falling into a rabbit hole researching something completely unrelated to what I was doing five minutes ago.
-
 
 ## 📊 GitHub Analytics
 
@@ -108,14 +84,6 @@ When I'm not coding, you'll probably find me:
 ### Contribution Activity
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=doublename02&theme=tokyo-night&hide_border=true&area=true" />
-
-### GitHub Trophies
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=doublename02&theme=tokyonight&no-frame=true&column=7" />
-
-### Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=doublename02&style=for-the-badge&color=blueviolet" />
 
 </div>
 
