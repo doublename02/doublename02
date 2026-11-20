@@ -91,12 +91,34 @@ When I'm not coding, you'll probably find me:
 - 📈 Reading about global economies, financial markets, and technology companies.
 - 🤔 Falling into a rabbit hole researching something completely unrelated to what I was doing five minutes ago.
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doublename02&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doublename02&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=doubelanme02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doubelanme02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+### Contribution Streak
+
+<img width="70%" src="https://streak-stats.demolab.com?user=doubelanme02&theme=tokyonight&hide_border=true" />
+
+### Contribution Activity
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=doubelanme02&theme=tokyo-night&hide_border=true&area=true" />
+
+### GitHub Trophies
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=doubelanme02&theme=tokyonight&no-frame=true&column=7" />
+
+### Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=doubelanme02&style=for-the-badge&color=blueviolet" />
+
+</div>
+
 
 ---
 
