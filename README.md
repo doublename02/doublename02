@@ -18,7 +18,7 @@ I'm particularly interested in AI-powered applications, backend development, sof
 
 ## 📫 Connect With Me
 
-Reach me on: akiracheah12@gmail.com
+email: akiracheah12@gmail.com
 
 <p align="left">
   <a href="https://github.com/doublename02">
