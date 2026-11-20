@@ -56,14 +56,6 @@ I'm always exploring new technologies. Here's my current toolbox:
   <img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,langchain,pinecone,mysql,firebase" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Valkey-5C2D91?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
 **Tools & Design**
 
 <p>
