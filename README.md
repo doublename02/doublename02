@@ -50,7 +50,7 @@ I'm always exploring new technologies. Here's my current toolbox:
   <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode" />
 </p>
 
-## 🌐 Languages
+## 🌐 Spoken Languages
 
 - Chinese   — Native
 - Malay     — Professional
