@@ -54,7 +54,7 @@ I'm always exploring new technologies. Here's my current toolbox:
   <img src="https://skillicons.dev/icons?i=flutter,firebase" />
 </p>
 
-**Backend, Database & AI**
+**Backend & Database**
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,supabase,postgresql" />
@@ -64,6 +64,12 @@ I'm always exploring new technologies. Here's my current toolbox:
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,visualstudio,linux" />
+</p>
+
+**AI Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=claudecode,codex,deepseekharness" />
 </p>
 
 ## 🌐 Spoken Languages
