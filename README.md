@@ -53,7 +53,7 @@ I'm always exploring new technologies. Here's my current toolbox:
 **Backend, Database & AI**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql" />
 </p>
 
 **Tools & Design**
