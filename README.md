@@ -78,7 +78,10 @@ I'm always exploring new technologies. Here's my current toolbox:
 
 When I'm not coding, you'll probably find me:
 
-- 🎵 Listening to music or watching anime.
+- 🎵 Listening to music or watching animme. My anime watchlist can be viewed in below:
+  <a href="[YOUR_ANIME_WATCHLIST_URL](https://doublename02.github.io/AnimeList/)">
+    <img src="https://img.shields.io/badge/Anime_Watchlist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />
+  </a>
 - 🌏 Exploring languages and different cultures.
 - 📈 Reading about global economies, financial markets, and technology companies.
 
