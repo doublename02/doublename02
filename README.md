@@ -30,7 +30,7 @@ email: akiracheah12@gmail.com
   <a href="https://www.instagram.com/shuang_ming/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://discord.com/users/doublename2727">
+  <a href="https://discord.com/users/665202375199293452">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
