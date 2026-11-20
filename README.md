@@ -18,7 +18,6 @@ I'm particularly interested in AI-powered applications, backend development, sof
 
 ## 📫 Connect With Me
 
-<img src="https://skillicons.dev/icons?i=gmail" />
 email: akiracheah12@gmail.com
 
 <p align="left">
