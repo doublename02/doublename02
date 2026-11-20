@@ -21,6 +21,9 @@ I'm particularly interested in AI-powered applications, backend development, sof
 email: akiracheah12@gmail.com
 
 <p align="left">
+  <a href="mailto:akiracheah12@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
   <a href="https://github.com/doublename02">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
