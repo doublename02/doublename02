@@ -1,4 +1,4 @@
-# Hey there! I'm a Developer Who's Always Curious About What's Next 👋
+# Hey there! I'm CHEAH SEONG MEN 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Graduate;Aspiring+Software+%26+AI+Engineer;Building+Ideas+Into+Reality;Curious+About+Technology+%26+Everything+Else" alt="Typing SVG" />
@@ -47,14 +47,18 @@ I'm always exploring new technologies. Here's my current toolbox:
 **Mobile Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
 </p>
 
-**Database & Backend**
+**Backend, Database & AI**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase" />
 </p>
+
+- LangChain
+- Pinecone
+- Valkey
 
 **Tools & Design**
 
@@ -100,6 +104,13 @@ When I'm not coding, you'll probably find me:
 - 🌏 Exploring languages and different cultures.
 - 📈 Reading about global economies, financial markets, and technology companies.
 - 🤔 Falling into a rabbit hole researching something completely unrelated to what I was doing five minutes ago.
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
