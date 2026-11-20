@@ -22,13 +22,16 @@ email: akiracheah12@gmail.com
 
 <p align="left">
   <a href="https://github.com/doublename02">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://www.linkedin.com/in/cheah-seong-men/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
    </a>
   <a href="https://www.instagram.com/shuang_ming/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://discord.com/users/doublename2727">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
