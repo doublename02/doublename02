@@ -63,7 +63,7 @@ I'm always exploring new technologies. Here's my current toolbox:
 **Tools & Design**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,visualstudio,linux" />
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,visualstudio,androidstudio,linux" />
 </p>
 
 ## 🌐 Spoken Languages
