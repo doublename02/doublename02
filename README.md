@@ -56,9 +56,13 @@ I'm always exploring new technologies. Here's my current toolbox:
   <img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase" />
 </p>
 
-- LangChain
-- Pinecone
-- Valkey
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,langchain,pinecone,mysql,firebase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Valkey-5C2D91?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
 **Tools & Design**
 
@@ -108,8 +112,8 @@ When I'm not coding, you'll probably find me:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=doublename02&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doublename02&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
