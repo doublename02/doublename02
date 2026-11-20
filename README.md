@@ -70,16 +70,6 @@ I'm always exploring new technologies. Here's my current toolbox:
 - **Automation:** Finding ways to simplify repetitive tasks and improve productivity through technology.
 - **Emerging Technologies:** Keeping an eye on how technology is reshaping industries and everyday life.
 
-## 📌 Featured Project
-
-### RegiQ — University Course Registration Assistant
-
-An AI-powered chatbot designed to help university students navigate course registration.
-
-Built as my Final Year Project, RegiQ combines conversational AI with a hybrid retrieval-based approach to help students access relevant academic information.
-
-**Tech Stack:** React, Tailwind CSS, FastAPI, MySQL, Pinecone, LangChain, Ollama, DeepSeek R1, WebSocket, and Valkey.
-
 ## 🌱 Currently Learning
 
 I'm a firm believer that learning doesn't stop after graduation.
