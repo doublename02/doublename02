@@ -72,8 +72,8 @@ I'm always exploring new technologies. Here's my current toolbox:
 - Malay     — Professional
 - English   — Professional
 - Japanese  — Professional
-- Cantonese — Conversational
-- Taiwanese — Conversational
+- Cantonese — Native
+- Taiwanese — Native
 - Korean    — Learning
 
 ## 🌍 Beyond Coding
