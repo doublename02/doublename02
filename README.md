@@ -66,12 +66,6 @@ I'm always exploring new technologies. Here's my current toolbox:
   <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,visualstudio,linux" />
 </p>
 
-**AI Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=claudecode,codex,deepseekharness" />
-</p>
-
 ## 🌐 Spoken Languages
 
 - Chinese   — Native
