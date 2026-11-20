@@ -57,7 +57,7 @@ I'm always exploring new technologies. Here's my current toolbox:
 **Backend, Database & AI**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,langchain,ollama,nodejs,mysql,supabase,postgresql,pinecone" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,supabase,postgresql" />
 </p>
 
 **Tools & Design**
